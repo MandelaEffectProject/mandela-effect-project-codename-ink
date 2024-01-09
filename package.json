@@ -1,0 +1,16 @@
+{
+  "name": "mandela-effect-project-codename-ink",
+  "version": "1.0.0",
+  "description": "Mandela Effect Project - Codename Ink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "humanhash": "^1.0.4",
+    "js-sha256": "^0.10.1"
+  }
+}
